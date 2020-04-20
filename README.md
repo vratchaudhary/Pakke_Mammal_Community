@@ -8,7 +8,7 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  [Species information](https://animaldiversity.org/accounts/Panthera_tigris/) 
 
 # 2.Indian leopard (_Panthera pardus fusca_)
- <img src="Panthera_pardus.jpg" alt="Panthera_pardus" width="400"/>
+ <img src="panthera_pardus.jpg" alt="Panthera_pardus" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Panthera_pardus/) 
 
 # 3.Indian wild dog (_Cuon alpinus_)
@@ -40,7 +40,7 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  [Species information](https://animaldiversity.org/accounts/Viverra zibetha/) 
 
 # 10.Small Indian civet (_Viverricula_indica_)
- <img src="viverricula_indica.jpg" alt="_Viverra zibetha_" width="400"/>
+ <img src="viverricula_indica.jpg" alt="_Viverricula_indica_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Viverricula_indica/) 
  
  # 11.Common palm civet (_Paradoxurus_hermaphroditus_)
@@ -48,9 +48,19 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  [Species information](https://animaldiversity.org/accounts/Paradoxurus_hermaphroditus/) 
 
 # 12.Himalayan palm civet (_Paguma larvata_)
- <img src="viverricula_indica.jpg" alt="_Viverra zibetha_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Paguma_larvata/) 
  
-# 14. Gaur (_Bos gaurus_)
+# 13. Gaur (_Bos gaurus_)
+ <img src="os.jpg" alt="_Bos gaurus_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Bos_frontalis/) 
+
+# 14.Capped langoor (_Paradoxurus_hermaphroditus_)
+ <img src="commoncivet.jpg" alt="_Paradoxurus_hermaphroditus_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Paradoxurus_hermaphroditus/) 
+
+# 15.Himalayan palm civet (_Paguma larvata_)
+ [Species information](https://animaldiversity.org/accounts/Paguma_larvata/) 
+ 
+# 16. Gaur (_Bos gaurus_)
  <img src="os.jpg" alt="_Bos gaurus_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Bos_frontalis/) 
