@@ -4,7 +4,7 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
 
 
 # 1. Tiger (_Panthera tigris_)
-![Image](src)
+![tiger.jpg](src)
 [Link](url) 
 
 
