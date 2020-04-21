@@ -28,7 +28,7 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  [Species information](https://animaldiversity.org/accounts/Prionailurus_bengalensis/) 
  
 # 7. Marbled cat (_Pardofelis_marmorata_)
- <img src="mrbled_cat.png" alt="_Pardofelis_marmorata_" width="400"/>
+ <img src="mrabled_cat.png" alt="_Pardofelis_marmorata_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Pardofelis_marmorata/) 
 
 # 8. Asian elephant (_Elephas_maximus_)
