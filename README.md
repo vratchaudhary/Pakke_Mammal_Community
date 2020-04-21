@@ -104,7 +104,7 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  [Species information](https://animaldiversity.org/accounts/Herpestes_edwardsi/)
  
   
-# 27.Slow loris (_Herpestes sp_)
+# 27.Slow loris (_Nycticebus_bengalensis_)
  [Species information](https://animaldiversity.org/accounts/Nycticebus_bengalensis/)
  
 # 28.Wild boar (_Sus scrofa_)
