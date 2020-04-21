@@ -60,6 +60,10 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
 # 15. Himalayan palm civet (_Paguma larvata_)
  [Species information](https://animaldiversity.org/accounts/Paguma_larvata/) 
  
+# 16. Yellow throated marten (_Martes flavigula_)
+ <img src="MA_FL.jpg" alt="_Martes flavigula_" width="400"/>
+ [Species information]https://animaldiversity.org/accounts/Martes_flavigula/) 
+ 
 # 17. Binturong (_Arctictis binturong_)
  [Species information](https://animaldiversity.org/accounts/Arctictis_binturong/) 
 
@@ -91,6 +95,21 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  <img src="as_mac.jpg" alt="_Axis_porcinus_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Macaca_mulatta/) 
  
+# 25.Porcupine (_Hystrix sp_)
+ <img src="at_ma.jpg" alt="_Himalayan crestless porcupine_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Hystrix_indica/) 
+ 
+# 26.Mongoose (_Herpestes sp_)
+ <img src="hy_ur.jpg" alt="_Herpestes urva_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Herpestes_edwardsi/)
+ 
+  
+# 27.Slow loris (_Herpestes sp_)
+ [Species information](https://animaldiversity.org/accounts/Nycticebus_bengalensis/)
+ 
+# 28.Wild boar (_Sus scrofa_)
+ <img src="SS.jpg" alt="_Sus scrofa_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Sus_scrofa/)
  
  
  
