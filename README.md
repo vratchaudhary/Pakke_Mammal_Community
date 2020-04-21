@@ -28,7 +28,7 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  [Species information](https://animaldiversity.org/accounts/Prionailurus_bengalensis/) 
  
 # 7.Marbled cat (_Pardofelis_marmorata_)
- <img src="cl.png" alt="_Pardofelis_marmorata_" width="400"/>
+ <img src="mrbled_cat.png" alt="_Pardofelis_marmorata_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Pardofelis_marmorata/) 
 
 # 8.Asian elephant (_Elephas_maximus_)
@@ -61,6 +61,42 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
 # 15.Himalayan palm civet (_Paguma larvata_)
  [Species information](https://animaldiversity.org/accounts/Paguma_larvata/) 
  
-# 16. Gaur (_Bos gaurus_)
+ # 17. Binturong (_Bos gaurus_)
  <img src="os.jpg" alt="_Bos gaurus_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Bos_frontalis/) 
+
+ 
+# 18. Gaur (_Bos gaurus_)
+ <img src="os.jpg" alt="_Bos gaurus_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Bos_frontalis/) 
+ 
+ 
+# 19. Goral (_Naemorhedus_goral_)
+ [Species information](https://animaldiversity.org/accounts/Naemorhedus_goral/) 
+ 
+ # 20. Serow (_Naemorhedus_sumatraensis_)
+ [Species information](https://animaldiversity.org/accounts/Capricornis_sumatraensis/) 
+ 
+ # 21. Sambar deer (_Rusa unicolor_)
+ <img src="rus.jpg" alt="_Rusa unicolor_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Capricornis_sumatraensis/) 
+ 
+ # 22. Barking deer (_Muntiacus_muntjak_)
+ <img src="mun.jpg" alt="_Muntiacus_muntjak_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Muntiacus_muntjak/) 
+ 
+ # 23. Barking deer (_Axis_porcinus_)
+ <img src="axis.jpg" alt="_Axis_porcinus_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Axis_porcinus/) 
+ 
+ # 24. Rhesus macaque (_Macaca_mulatta_)
+ [Species information](https://animaldiversity.org/accounts/Macaca_mulatta/) 
+ 
+ # 24.Assamese macaque (_Macaca_assamensis_)
+ <img src="as_mac.jpg" alt="_Axis_porcinus_" width="400"/>
+ [Species information](https://animaldiversity.org/accounts/Macaca_mulatta/) 
+ 
+ 
+ 
+ 
+ 
