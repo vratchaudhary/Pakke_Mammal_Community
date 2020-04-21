@@ -19,19 +19,19 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  <img src="cl.png" alt="Neofelis nebulosa" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Neofelis_nebulosa/) 
 
-# 5. Golden cat (_Catopuma_temminckii_)
+# 5. Golden cat (_Catopuma temminckii_)
  <img src="gold_cat.jpg" alt="_Catopuma_temminckii_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Catopuma_temminckii/) 
  
-# 6. Leopard cat (_Prionailurus_bengalensis_)
+# 6. Leopard cat (_Prionailurus bengalensis_)
  <img src="leo_cat.jpg" alt="_Prionailurus_bengalensis_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Prionailurus_bengalensis/) 
  
-# 7. Marbled cat (_Pardofelis_marmorata_)
+# 7. Marbled cat (_Pardofelis marmorata_)
  <img src="mrabled_Cat.jpg" alt="_Pardofelis_marmorata_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Pardofelis_marmorata/) 
 
-# 8. Asian elephant (_Elephas_maximus_)
+# 8. Asian elephant (_Elephas maximus_)
  <img src="ele.jpg" alt="_Elephas_maximus_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Elephas_maximus/) 
  
@@ -39,11 +39,11 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  <img src="vi_zi.jpg" alt="_Viverra zibetha_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Viverra zibetha/) 
 
-# 10. Small Indian civet (_Viverricula_indica_)
+# 10. Small Indian civet (_Viverricula indica_)
  <img src="viverricula_indica.jpg" alt="_Viverricula_indica_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Viverricula_indica/) 
  
-# 11. Common palm civet (_Paradoxurus_hermaphroditus_)
+# 11. Common palm civet (_Paradoxurus hermaphroditus_)
  <img src="commoncivet.jpg" alt="_Paradoxurus_hermaphroditus_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Paradoxurus_hermaphroditus/) 
 
@@ -64,30 +64,26 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
  [Species information](https://animaldiversity.org/accounts/Arctictis_binturong/) 
 
  
-# 18. Gaur (_Bos gaurus_)
- <img src="os.jpg" alt="_Bos gaurus_" width="400"/>
- [Species information](https://animaldiversity.org/accounts/Bos_frontalis/) 
  
- 
-# 19. Goral (_Naemorhedus_goral_)
+# 18. Goral (_Naemorhedus_goral_)
  [Species information](https://animaldiversity.org/accounts/Naemorhedus_goral/) 
  
- # 20. Serow (_Naemorhedus_sumatraensis_)
+ # 19. Serow (_Naemorhedus_sumatraensis_)
  [Species information](https://animaldiversity.org/accounts/Capricornis_sumatraensis/) 
  
- # 21. Sambar deer (_Rusa unicolor_)
+ # 20. Sambar deer (_Rusa unicolor_)
  <img src="rus.jpg" alt="_Rusa unicolor_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Capricornis_sumatraensis/) 
  
- # 22. Barking deer (_Muntiacus_muntjak_)
+ # 21. Barking deer (_Muntiacus_muntjak_)
  <img src="mun.jpg" alt="_Muntiacus_muntjak_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Muntiacus_muntjak/) 
  
- # 23. Barking deer (_Axis_porcinus_)
+ # 22. Hog deer (_Axis_porcinus_)
  <img src="axis.jpg" alt="_Axis_porcinus_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Axis_porcinus/) 
  
- # 24. Rhesus macaque (_Macaca_mulatta_)
+ # 23. Rhesus macaque (_Macaca_mulatta_)
  [Species information](https://animaldiversity.org/accounts/Macaca_mulatta/) 
  
  # 24.Assamese macaque (_Macaca_assamensis_)
