@@ -72,22 +72,22 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
 # 19. Serow (_Naemorhedus_sumatraensis_)
  [Species information](https://animaldiversity.org/accounts/Capricornis_sumatraensis/) 
  
- # 20. Sambar deer (_Rusa unicolor_)
+# 20. Sambar deer (_Rusa unicolor_)
  <img src="rus.jpg" alt="_Rusa unicolor_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Capricornis_sumatraensis/) 
  
- # 21. Barking deer (_Muntiacus_muntjak_)
+# 21. Barking deer (_Muntiacus_muntjak_)
  <img src="mun.jpg" alt="_Muntiacus_muntjak_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Muntiacus_muntjak/) 
  
- # 22. Hog deer (_Axis_porcinus_)
+# 22. Hog deer (_Axis_porcinus_)
  <img src="axis.jpg" alt="_Axis_porcinus_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Axis_porcinus/) 
  
- # 23. Rhesus macaque (_Macaca_mulatta_)
+# 23. Rhesus macaque (_Macaca_mulatta_)
  [Species information](https://animaldiversity.org/accounts/Macaca_mulatta/) 
  
- # 24.Assamese macaque (_Macaca_assamensis_)
+# 24.Assamese macaque (_Macaca_assamensis_)
  <img src="as_mac.jpg" alt="_Axis_porcinus_" width="400"/>
  [Species information](https://animaldiversity.org/accounts/Macaca_mulatta/) 
  
