@@ -60,15 +60,16 @@ Pakke Tiger Reserve has a diverse mammal community. This page lists the mammals 
 # 15. Himalayan palm civet (_Paguma larvata_)
  [Species information](https://animaldiversity.org/accounts/Paguma_larvata/) 
  
- # 17. Binturong (_Arctictis binturong_)
+# 17. Binturong (_Arctictis binturong_)
  [Species information](https://animaldiversity.org/accounts/Arctictis_binturong/) 
 
  
  
-# 18. Goral (_Naemorhedus_goral_)
+# 18. Goral (_Naemorhedus goral_)
  [Species information](https://animaldiversity.org/accounts/Naemorhedus_goral/) 
  
- # 19. Serow (_Naemorhedus_sumatraensis_)
+ 
+# 19. Serow (_Naemorhedus_sumatraensis_)
  [Species information](https://animaldiversity.org/accounts/Capricornis_sumatraensis/) 
  
  # 20. Sambar deer (_Rusa unicolor_)
